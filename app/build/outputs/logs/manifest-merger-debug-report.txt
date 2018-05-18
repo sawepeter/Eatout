@@ -16,15 +16,22 @@ ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\Android
 application
 ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:5:5-19:19
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\c8aa41c2d4a95489335ac6fa73c037cb2a4a291c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\a90be5bb526d53a51fa32950f0ae45e8b0a75729\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\36a668159e33c780fb72d7f6d8c011ea452bb1aa\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\SAWE PETER\.android\build-cache\94e54e0edf8337abfc9ec5914e5074e66ec2094c\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\SAWE PETER\.android\build-cache\9b1440b552f4df7886099e0e5eb82713098f4160\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\SAWE PETER\.android\build-cache\02d1651d16e727111c738ee4c496a90fd558cf6f\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\SAWE PETER\.android\build-cache\fae0a2a414138f55ed3d5d9660c2d6df078e64fd\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\SAWE PETER\.android\build-cache\70cd27dbb18ca43d7e30a454709569211bdc669d\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e7f2f8f7013495ffbfd9e5d3a28f440d835bd2b9\output\AndroidManifest.xml:19:5-21:19
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\a9f9fdf367f72b6ce42ac696edd619667bdf6cb1\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\7d98488abc225130def1aa37dfa45f3ad3e2ce23\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\39c5f5bf5ba57327b9506d65027dd43bb48f6fc4\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\b50f2c5cc4bdf15cb522ef4426f1f28222767a2a\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\cac41801e2ec8eb63bf6f3677517c7137e7d7894\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\a90be5bb526d53a51fa32950f0ae45e8b0a75729\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\36a668159e33c780fb72d7f6d8c011ea452bb1aa\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\83246925cdaeaec7071e808a1c9224eb31c77d74\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\SAWE PETER\.android\build-cache\94e54e0edf8337abfc9ec5914e5074e66ec2094c\output\AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -54,15 +61,24 @@ ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\Android
 uses-sdk
 INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\c8aa41c2d4a95489335ac6fa73c037cb2a4a291c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\a90be5bb526d53a51fa32950f0ae45e8b0a75729\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\36a668159e33c780fb72d7f6d8c011ea452bb1aa\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\SAWE PETER\.android\build-cache\94e54e0edf8337abfc9ec5914e5074e66ec2094c\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f4ead4cc43fd895458ef29dcd1afdd52bb6c93c8\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\SAWE PETER\.android\build-cache\4cfbb2fba481996f32b01f5153d9590fbc1357e3\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\SAWE PETER\.android\build-cache\9b1440b552f4df7886099e0e5eb82713098f4160\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\SAWE PETER\.android\build-cache\02d1651d16e727111c738ee4c496a90fd558cf6f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\SAWE PETER\.android\build-cache\fae0a2a414138f55ed3d5d9660c2d6df078e64fd\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\SAWE PETER\.android\build-cache\70cd27dbb18ca43d7e30a454709569211bdc669d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e7f2f8f7013495ffbfd9e5d3a28f440d835bd2b9\output\AndroidManifest.xml:17:5-42
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\a9f9fdf367f72b6ce42ac696edd619667bdf6cb1\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\7d98488abc225130def1aa37dfa45f3ad3e2ce23\output\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\39c5f5bf5ba57327b9506d65027dd43bb48f6fc4\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\b50f2c5cc4bdf15cb522ef4426f1f28222767a2a\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\cac41801e2ec8eb63bf6f3677517c7137e7d7894\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\a90be5bb526d53a51fa32950f0ae45e8b0a75729\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\36a668159e33c780fb72d7f6d8c011ea452bb1aa\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\83246925cdaeaec7071e808a1c9224eb31c77d74\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\SAWE PETER\.android\build-cache\94e54e0edf8337abfc9ec5914e5074e66ec2094c\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\c8aa41c2d4a95489335ac6fa73c037cb2a4a291c\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
@@ -73,15 +89,137 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\U
 		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\c8aa41c2d4a95489335ac6fa73c037cb2a4a291c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\a90be5bb526d53a51fa32950f0ae45e8b0a75729\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\36a668159e33c780fb72d7f6d8c011ea452bb1aa\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\a9f9fdf367f72b6ce42ac696edd619667bdf6cb1\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\7d98488abc225130def1aa37dfa45f3ad3e2ce23\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\39c5f5bf5ba57327b9506d65027dd43bb48f6fc4\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\b50f2c5cc4bdf15cb522ef4426f1f28222767a2a\output\AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\cac41801e2ec8eb63bf6f3677517c7137e7d7894\output\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\a90be5bb526d53a51fa32950f0ae45e8b0a75729\output\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\36a668159e33c780fb72d7f6d8c011ea452bb1aa\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\83246925cdaeaec7071e808a1c9224eb31c77d74\output\AndroidManifest.xml:25:5-27:41
 	android:value
 		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\c8aa41c2d4a95489335ac6fa73c037cb2a4a291c\output\AndroidManifest.xml:27:9-38
 	android:name
 		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\c8aa41c2d4a95489335ac6fa73c037cb2a4a291c\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\SAWE PETER\.android\build-cache\02d1651d16e727111c738ee4c496a90fd558cf6f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\SAWE PETER\.android\build-cache\02d1651d16e727111c738ee4c496a90fd558cf6f\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\SAWE PETER\.android\build-cache\02d1651d16e727111c738ee4c496a90fd558cf6f\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\SAWE PETER\.android\build-cache\02d1651d16e727111c738ee4c496a90fd558cf6f\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\SAWE PETER\.android\build-cache\02d1651d16e727111c738ee4c496a90fd558cf6f\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\SAWE PETER\.android\build-cache\f6ce430b47e611e1f38e64c9aaf36d09ffe20587\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\SAWE PETER\.android\build-cache\fae0a2a414138f55ed3d5d9660c2d6df078e64fd\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\SAWE PETER\.android\build-cache\fae0a2a414138f55ed3d5d9660c2d6df078e64fd\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\SAWE PETER\.android\build-cache\fae0a2a414138f55ed3d5d9660c2d6df078e64fd\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\SAWE PETER\.android\build-cache\fae0a2a414138f55ed3d5d9660c2d6df078e64fd\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\SAWE PETER\.android\build-cache\fae0a2a414138f55ed3d5d9660c2d6df078e64fd\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e7f2f8f7013495ffbfd9e5d3a28f440d835bd2b9\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e7f2f8f7013495ffbfd9e5d3a28f440d835bd2b9\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\SAWE PETER\.android\build-cache\e7f2f8f7013495ffbfd9e5d3a28f440d835bd2b9\output\AndroidManifest.xml:20:20-65

@@ -60,6 +60,10 @@
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\c8aa41c2d4a95489335ac6fa73c037cb2a4a291c\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bgg.jpg",
+        "source": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\src\\main\\res\\drawable\\bgg.jpg"
+    },
+    {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\c8aa41c2d4a95489335ac6fa73c037cb2a4a291c\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
