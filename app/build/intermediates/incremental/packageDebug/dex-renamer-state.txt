@@ -1,0 +1,4 @@
+#Fri May 18 18:45:09 EAT 2018
+base.0=C\:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

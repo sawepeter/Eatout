@@ -37,11 +37,11 @@ MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\SAWE PET
 	android:supportsRtl
 		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:9:9-41
 	android:allowBackup
 		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:7:9-36
 	android:theme
 		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.sawepeter.eatout.MainActivity
