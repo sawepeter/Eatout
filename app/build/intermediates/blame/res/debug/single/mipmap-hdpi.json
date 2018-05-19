@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\logg.png",
+        "source": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\src\\main\\res\\mipmap-hdpi\\logg.png"
+    },
+    {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
