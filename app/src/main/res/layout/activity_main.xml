@@ -24,7 +24,7 @@
             android:layout_height="wrap_content"
             android:textColor="@android:color/white"
             android:id="@+id/txtSlogan"
-            android:text=""
+            android:text="@"
             android:gravity="center"/>
 
     </LinearLayout>
