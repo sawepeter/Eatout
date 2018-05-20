@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:3:5-43
 		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\Android
 		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:5:5-20:19
+ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:5:5-21:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\SAWE PETER\.android\build-cache\94e54e0edf8337abfc9ec5914e5074e66ec2094c\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\c8aa41c2d4a95489335ac6fa73c037cb2a4a291c\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\SAWE PETER\.android\build-cache\a90be5bb526d53a51fa32950f0ae45e8b0a75729\output\AndroidManifest.xml:26:5-20
@@ -59,9 +59,13 @@ ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\Android
 	android:name
 		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:16:27-74
 activity#com.example.sawepeter.eatout.SignIn
-ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:19:9-53
+ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:19:9-44
 	android:name
 		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:19:19-41
+activity#com.example.sawepeter.eatout.SignUp
+ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:20:9-53
+	android:name
+		ADDED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml:20:19-41
 uses-sdk
 INJECTED from C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\SAWE PETER\.android\build-cache\94e54e0edf8337abfc9ec5914e5074e66ec2094c\output\AndroidManifest.xml:5:5-7:41

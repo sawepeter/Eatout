@@ -4,12 +4,12 @@
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\c8aa41c2d4a95489335ac6fa73c037cb2a4a291c\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\c8aa41c2d4a95489335ac6fa73c037cb2a4a291c\\output\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\c8aa41c2d4a95489335ac6fa73c037cb2a4a291c\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\c8aa41c2d4a95489335ac6fa73c037cb2a4a291c\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
@@ -50,6 +50,10 @@
     {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\SAWE PETER\\.android\\build-cache\\c8aa41c2d4a95489335ac6fa73c037cb2a4a291c\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
     },
     {
         "merged": "C:\\Users\\SAWE PETER\\AndroidStudioProjects\\EatOut\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",

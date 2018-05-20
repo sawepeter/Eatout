@@ -37,6 +37,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.sawepeter.eatout.SignIn" />
+        <activity android:name="com.example.sawepeter.eatout.SignUp" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
