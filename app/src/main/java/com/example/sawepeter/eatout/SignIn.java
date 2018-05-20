@@ -38,7 +38,7 @@ public class SignIn extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                ProgressDialog mDialog = new ProgressDialog(SignIn.this);
+                final ProgressDialog mDialog = new ProgressDialog(SignIn.this);
                 mDialog.setMessage("verifying....");
                 mDialog.show();
 
@@ -46,17 +46,21 @@ public class SignIn extends AppCompatActivity {
                 table_user.addValueEventListener(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
-                        //get user information
-                        user user = dataSnapshot.child(edtphone.getText().toString()).getValue(com.example.sawepeter.eatout.Model.user.class);
-                        if (user.getPassword().equals(edtpassword.getText().toString()))
-                        {
-                            Toast.makeText(SignIn.this, "Successfull signin !", Toast.LENGTH_SHORT).show();
-                        }
-                        else
-                        {
-                            Toast.makeText(SignIn.this, "Ooops!!! Sign in failed !!!", Toast.LENGTH_SHORT).show();
-                        }
 
+                        //check if user does not exist in database
+                        if (dataSnapshot.child(edtphone.getText().toString()).exists()) {
+                            //get user information
+                            mDialog.dismiss();
+                            user user = dataSnapshot.child(edtphone.getText().toString()).getValue(com.example.sawepeter.eatout.Model.user.class);
+                            if (user.getPassword().equals(edtpassword.getText().toString())) {
+                                Toast.makeText(SignIn.this, "Successfull signin !", Toast.LENGTH_SHORT).show();
+                            } else {
+                                Toast.makeText(SignIn.this, "Ooops!!! Sign in failed !!!", Toast.LENGTH_SHORT).show();
+                            }
+
+                        } else {
+                            Toast.makeText(SignIn.this, "User does not exist in database", Toast.LENGTH_SHORT).show();
+                        }
                     }
 
                     @Override
