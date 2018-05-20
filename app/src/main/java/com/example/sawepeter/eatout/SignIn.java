@@ -59,6 +59,7 @@ public class SignIn extends AppCompatActivity {
                             }
 
                         } else {
+                            mDialog.dismiss();
                             Toast.makeText(SignIn.this, "User does not exist in database", Toast.LENGTH_SHORT).show();
                         }
                     }
