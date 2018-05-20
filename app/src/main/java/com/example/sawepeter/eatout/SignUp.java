@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -47,6 +48,7 @@ public class SignUp extends AppCompatActivity {
                         if (dataSnapshot.child(edtphone.getText().toString()).exists())
                         {
                             mDialog.dismiss();
+                            Toast.makeText(SignUp.this, "Sorry!!! Phone Number already exists", Toast.LENGTH_SHORT).show();
                         }
                     }
 
