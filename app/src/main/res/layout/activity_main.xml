@@ -49,6 +49,7 @@
             app:shadowColor="@android:color/black"
             app:shadowEnabled="true"
             android:layout_margin="8dp"
+            app:buttonColor="@color/btnsignup"
             app:shadowHeight="5dp"
             app:cornerRadius="4dp"/>
 
@@ -59,6 +60,7 @@
             android:textColor="@android:color/white"
             android:id="@+id/btnsignin"
             android:layout_weight="1"
+            app:buttonColor="@color/btnsignactive"
             app:shadowColor="@android:color/black"
             app:shadowEnabled="true"
             android:layout_margin="8dp"
