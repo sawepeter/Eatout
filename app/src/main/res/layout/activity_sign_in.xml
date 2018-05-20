@@ -18,6 +18,18 @@
         <com.rengwuxian.materialedittext.MaterialEditText
             android:id="@+id/edtphone"
             android:hint="Phone Number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@android:color/white"
+            android:text="+254725632415"
+            android:textColor="@android:color/white"
+            android:textSize="34sp"
+            android:inputType="phone"
+            app:met_maxCharacters="11"
+            app:met_primaryColor="@android:color/white"
+            app:met_singleLineEllipsis="true"
+            app:met_baseColor=""
+            app:met_floatingLabel="highlight"/>
 
 
     </LinearLayout>
