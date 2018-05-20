@@ -53,7 +53,7 @@ public class SignUp extends AppCompatActivity {
                         }
                         else
                         {
-                            mDialog.dismiss();
+                            mDialog.dismiss( );
                             user user = new user(edtname.getText().toString(),edtpassword.getText().toString());
                             table_user.child(edtphone.getText().toString()).setValue(user);
                             Toast.makeText(SignUp.this, "Hurray!!! Successfull SignIn", Toast.LENGTH_SHORT).show();
