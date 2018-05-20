@@ -39,7 +39,7 @@ public class SignIn extends AppCompatActivity {
             public void onClick(View view) {
 
                 final ProgressDialog mDialog = new ProgressDialog(SignIn.this);
-                mDialog.setMessage("verifying....");
+                mDialog.setMessage("Authenticating and verifying....");
                 mDialog.show();
 
 

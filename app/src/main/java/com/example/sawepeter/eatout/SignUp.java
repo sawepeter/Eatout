@@ -1,7 +1,9 @@
 package com.example.sawepeter.eatout;
 
+import android.app.ProgressDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
 
 import com.google.firebase.database.DatabaseReference;
@@ -27,5 +29,18 @@ public class SignUp extends AppCompatActivity {
         //intialize firebase database
         FirebaseDatabase database = FirebaseDatabase.getInstance();
         final DatabaseReference table_user = database.getReference("user");
+
+        btnsignup.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                final ProgressDialog mDialog = new ProgressDialog(SignUp.this);
+                mDialog.setMessage("verifying and authenticating....");
+                mDialog.show();
+
+                
+
+
+            }
+        });
     }
 }
