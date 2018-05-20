@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.example.sawepeter.eatout.Model.user;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -49,6 +50,11 @@ public class SignUp extends AppCompatActivity {
                         {
                             mDialog.dismiss();
                             Toast.makeText(SignUp.this, "Sorry!!! Phone Number already exists", Toast.LENGTH_SHORT).show();
+                        }
+                        else
+                        {
+                            mDialog.dismiss();
+                            user user = new user(edtname.getText().toString(),edtpassword.getText().toString());
                         }
                     }
 
