@@ -52,5 +52,18 @@
             app:shadowHeight="5dp"
             app:cornerRadius="4dp"/>
 
+        <info.hoang8f.widget.FButton
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="SignIn"
+            android:textColor="@android:color/white"
+            android:id="@+id/btnsignin"
+            android:layout_weight="1"
+            app:shadowColor="@android:color/black"
+            app:shadowEnabled="true"
+            android:layout_margin="8dp"
+            app:shadowHeight="5dp"
+            app:cornerRadius="4dp"/>
+
     </LinearLayout>
 </RelativeLayout>
