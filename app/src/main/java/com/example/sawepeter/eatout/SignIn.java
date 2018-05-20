@@ -38,6 +38,7 @@ public class SignIn extends AppCompatActivity {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
                         //get user information
+                        
                     }
 
                     @Override
