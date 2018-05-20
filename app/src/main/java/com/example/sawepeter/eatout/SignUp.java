@@ -44,6 +44,10 @@ public class SignUp extends AppCompatActivity {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
                         //check if already user phone is registered
+                        if (dataSnapshot.child(edtphone.getText().toString()).exists())
+                        {
+                            mDialog.dismiss();
+                        }
                     }
 
                     @Override
