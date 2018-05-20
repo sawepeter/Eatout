@@ -6,7 +6,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
+import com.example.sawepeter.eatout.Model.user;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
@@ -40,11 +42,20 @@ public class SignIn extends AppCompatActivity {
                 mDialog.setMessage("verifying....");
                 mDialog.show();
 
-                
+
                 table_user.addValueEventListener(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
                         //get user information
+                        user user = dataSnapshot.child(edtphone.getText().toString()).getValue(com.example.sawepeter.eatout.Model.user.class);
+                        if (user.getPassword().equals(edtpassword.getText().toString()))
+                        {
+                            Toast.makeText(SignIn.this, "Successfull signin !", Toast.LENGTH_SHORT).show();
+                        }
+                        else
+                        {
+                            Toast.makeText(SignIn.this, "Ooops!!! Sign in failed !!!", Toast.LENGTH_SHORT).show();
+                        }
 
                     }
 
