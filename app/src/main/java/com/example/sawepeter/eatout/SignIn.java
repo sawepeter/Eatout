@@ -1,5 +1,6 @@
 package com.example.sawepeter.eatout;
 
+import android.app.ProgressDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -34,11 +35,17 @@ public class SignIn extends AppCompatActivity {
         btnsignin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
+                ProgressDialog mDialog = new ProgressDialog(SignIn.this);
+                mDialog.setMessage("verifying....");
+                mDialog.show();
+
+                
                 table_user.addValueEventListener(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot dataSnapshot) {
                         //get user information
-                        
+
                     }
 
                     @Override
