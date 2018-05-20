@@ -21,6 +21,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\SAWE PETER\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\build\intermediates\pre-dexed\debug\library-2.4.0_a1c1e724209f8c42ba701b8001dec46c8d52361b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\SAWE PETER\.android\build-cache\e8143c96fa41df5c5c879f30af4daa7b2441ef94\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -54,6 +63,24 @@
         revision="26.0.2"
         sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
         <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\build\intermediates\pre-dexed\debug\classes_4c926464d324de407bc4c75b7e555b408f9fd28d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\3eaf7fbb53b7700d19dd60c1c8a6ff58fa11ce34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\build\intermediates\pre-dexed\debug\classes_e3dd0e9a9405ba7431a6ce2a80ee10ad4f028bc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SAWE PETER\.android\build-cache\b7a1c0f37a727d17e528fe0cacb68ef4072e51de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="C:\Users\SAWE PETER\AndroidStudioProjects\EatOut\app\build\intermediates\pre-dexed\debug\classes_bbec09530d4cd57a27e403035c04f4b967a9d311.jar" />
     </item>
     <item
         is-multidex="false"
