@@ -55,7 +55,7 @@ public class SignIn extends AppCompatActivity {
                             if (user.getPassword().equals(edtpassword.getText().toString())) {
                                 Toast.makeText(SignIn.this, "Successfull signin !", Toast.LENGTH_SHORT).show();
                             } else {
-                                Toast.makeText(SignIn.this, "Ooops!!! Sign in failed !!!", Toast.LENGTH_SHORT).show();
+                                Toast.makeText(SignIn.this, "Ooops!!! Incorrect password !!!", Toast.LENGTH_SHORT).show();
                             }
 
                         } else {
